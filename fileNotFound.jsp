@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Bank App</title>
+<title>Demo App</title>
 </head>
 <body>
 <h2> <font color="red"> Requested URL not found</font>  </h2>
